@@ -1,0 +1,6 @@
+.footer{
+    background: rgb(115, 10, 253);
+    background: linear-gradient(90deg, rgb(81, 18, 163) 0%, rgb(81, 18, 150) 35%, rgb(81, 18, 224) 100%) !important;
+    margin-top: 5%;
+    opacity: 0.7;
+}

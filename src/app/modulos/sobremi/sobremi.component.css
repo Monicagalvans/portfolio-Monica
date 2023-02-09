@@ -1,0 +1,16 @@
+.titulosobre{
+    margin-top: 10%;
+    font-size: 4rem;
+    color:rgb(115, 10, 253);
+    -webkit-text-stroke: 1px rgb(245, 235, 235);
+}
+.textosobre{
+    font-size: 2.5rem;
+    text-align: center;
+}
+#imgsobre{
+    width: 60%;
+  margin-left: 20%;
+    margin-top: 5%;
+    opacity: .8;
+}

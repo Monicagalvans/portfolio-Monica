@@ -1,0 +1,21 @@
+#imgedu{
+    border: 1px solid black;
+    margin-top: 10%;
+    margin-left: 50%;
+    width: 50%;
+    opacity: 0.9;
+    
+}
+.textoet{
+    margin-top: 5%;
+    font-size: large;
+    color: white;
+    
+}
+#imgcert{
+    width: 50%;
+    margin-left: 50%;
+    margin-top: 5%;
+    border: 1px solid black;
+    opacity: 0.9;
+}
